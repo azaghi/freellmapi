@@ -1,6 +1,6 @@
 # Riepilogo TODO giornaliero
 
-**Generato il:** 2026-07-16 19:57:42 UTC
+**Generato il:** 2026-07-17 (UTC) — aggiornamento automatico giornaliero
 
 ---
 
