@@ -1,6 +1,6 @@
 # Riepilogo TODO giornaliero
 
-**Generato il:** 2026-08-06 04:58:17 UTC
+**Generato il:** 2026-08-06 (task schedulato automatico)
 
 ---
 
