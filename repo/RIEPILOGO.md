@@ -1,9 +1,7 @@
 # Riepilogo TODO giornaliero
 
-**Generato il:** 2026-08-15 14:57:41 UTC
+**Generato il:** 2026-08-15 alle 00:00 UTC
 
 ---
 
-Il file `TODO.md` è presente nel repository ma risulta **vuoto**: non contiene alcuna attività da svolgere.
-
-Non ci sono task, scadenze o elementi da segnalare per oggi.
+Il file `TODO.md` è vuoto: non contiene alcuna attività da svolgere.
