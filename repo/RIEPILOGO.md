@@ -1,11 +1,9 @@
 # Riepilogo TODO giornaliero
 
-**Generato il:** 2026-08-23 14:58:31 UTC
+**Data e ora di generazione (UTC):** 2026-08-23 — generato automaticamente
 
 ---
 
-## Stato attuale
+Il file `TODO.md` è attualmente **vuoto**: non contiene alcuna attività da svolgere.
 
-Il file `TODO.md` è **vuoto**: non contiene alcuna attività da svolgere.
-
-Non ci sono task, scadenze o elementi da completare per oggi.
+Nessun elemento da segnalare per oggi.
