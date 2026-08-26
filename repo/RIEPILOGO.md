@@ -4,4 +4,8 @@
 
 ---
 
-Il file `TODO.md` è vuoto: non contiene attività da svolgere.
+## Stato attività
+
+Il file `TODO.md` è presente nel repository ma è **vuoto**: non contiene alcuna attività da svolgere.
+
+Non ci sono attività, scadenze o priorità da segnalare per oggi.
