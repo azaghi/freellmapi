@@ -1,9 +1,9 @@
 # Riepilogo TODO Giornaliero
 
-**Data e ora di generazione (UTC):** 2026-08-28 — generato automaticamente
+**Generato il:** 2026-08-31 alle ore 19:58 UTC
 
 ---
 
-Il file `TODO.md` è attualmente **vuoto**: non contiene nessuna attività da svolgere.
+Il file `TODO.md` è presente nel repository ma risulta **vuoto**: non contiene alcuna attività da svolgere.
 
-Non ci sono elementi da prioritizzare, scadenze o task in sospeso da segnalare per oggi.
+Nessuna attività da segnalare per oggi.
