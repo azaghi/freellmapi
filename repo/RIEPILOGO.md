@@ -1,7 +1,7 @@
-# Riepilogo TODO Giornaliero
+# Riepilogo TODO giornaliero
 
-**Data e ora di generazione:** 2026-09-08 UTC
+**Data e ora di generazione (UTC):** 2026-09-12T00:00:00Z
 
 ---
 
-Il file `TODO.md` è vuoto: non contiene alcuna attività da svolgere.
+Il file `TODO.md` è vuoto: non contiene attività da svolgere.
