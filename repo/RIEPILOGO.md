@@ -1,11 +1,9 @@
 # Riepilogo TODO giornaliero
 
-**Generato il:** 2026-09-18 14:57:25 UTC
+**Generato il:** 2026-09-18 alle ore UTC (generazione automatica)
 
 ---
 
-## Stato attività
-
-Il file `TODO.md` è vuoto: non contiene attività, scadenze o note da segnalare.
+Il file `TODO.md` è presente nel repository ma risulta **vuoto**: non contiene attività, scadenze o note da riportare.
 
 Non ci sono elementi da fare oggi.
