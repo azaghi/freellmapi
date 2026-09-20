@@ -4,6 +4,4 @@
 
 ---
 
-Il file `repo/TODO.md` esiste ma è attualmente **vuoto**: non contiene alcuna attività da svolgere.
-
-Nessuna attività in sospeso da riportare per oggi.
+Il file `TODO.md` è attualmente **vuoto**: non contiene nessuna attività da svolgere oggi.
