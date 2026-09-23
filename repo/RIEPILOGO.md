@@ -4,6 +4,8 @@
 
 ---
 
-Il file `TODO.md` è presente nel repository ma è **vuoto**: non contiene alcuna attività o nota.
+## Situazione attuale
 
-Non ci sono elementi da segnalare per oggi.
+Il file `TODO.md` è presente nel repository ma risulta **completamente vuoto**: non contiene alcuna attività, scadenza o nota.
+
+Non ci sono attività da svolgere oggi in base al contenuto del file.
