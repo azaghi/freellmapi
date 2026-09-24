@@ -1,11 +1,7 @@
-# Riepilogo TODO Giornaliero
+# Riepilogo TODO giornaliero
 
-**Generato il:** 2026-09-24 09:57:25 UTC
+**Generato il:** 2026-09-24 alle 00:00 UTC
 
 ---
 
-## Situazione attuale
-
-Il file `TODO.md` è vuoto: non contiene alcuna attività da svolgere oggi.
-
-Nessuna attività in sospeso, nessuna scadenza da tenere a mente.
+Il file `repo/TODO.md` è vuoto: non contiene attività da svolgere.
