@@ -6,6 +6,6 @@
 
 ## Stato attività
 
-Il file `repo/TODO.md` è attualmente **vuoto**: non contiene nessuna attività da svolgere.
+Il file `repo/TODO.md` è attualmente **vuoto**: non contiene alcuna attività da svolgere.
 
-Non ci sono task, scadenze o priorità da segnalare per oggi.
+Non ci sono attività pianificate, scadenze o elementi da completare per oggi.
