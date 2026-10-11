@@ -1,4 +1,4 @@
-# Riepilogo TODO Giornaliero
+# Riepilogo TODO giornaliero
 
 **Data e ora di generazione (UTC):** 2026-10-11 00:00:00
 
@@ -6,6 +6,6 @@
 
 ## Stato attività
 
-Il file `repo/TODO.md` è attualmente **vuoto**: non contiene nessuna attività da svolgere.
+Il file `TODO.md` è attualmente **vuoto**: non contiene alcuna attività da svolgere.
 
-Non ci sono task, scadenze o priorità da segnalare per oggi.
+Non ci sono compiti in sospeso, scadenze o priorità da segnalare per oggi.
