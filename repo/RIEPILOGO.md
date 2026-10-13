@@ -4,8 +4,8 @@
 
 ---
 
-## Stato attività
+## Stato attuale
 
-Il file `repo/TODO.md` è **vuoto**: non contiene attività, scadenze o note da riepilogare.
+Il file `repo/TODO.md` è presente nel repository ma risulta **vuoto**: non contiene alcuna attività da svolgere.
 
-Non ci sono elementi da fare oggi.
+Non ci sono attività pianificate, scadenze o priorità da segnalare per oggi.
