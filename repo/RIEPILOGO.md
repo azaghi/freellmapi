@@ -1,6 +1,6 @@
 # Riepilogo TODO Giornaliero
 
-**Generato il:** 2026-10-15 alle ore UTC (generazione automatica)
+**Data e ora di generazione (UTC):** 2026-10-15 — generato automaticamente
 
 ---
 
