@@ -4,8 +4,4 @@
 
 ---
 
-## Stato attività
-
-Il file `repo/TODO.md` è attualmente **vuoto**: non contiene alcuna attività, nota o scadenza.
-
-Non ci sono elementi da completare oggi.
+Il file `TODO.md` è vuoto: non contiene alcuna attività da svolgere.
