@@ -6,6 +6,4 @@
 
 ## Stato attività
 
-Il file `TODO.md` è attualmente **vuoto**: non contiene alcuna attività da svolgere.
-
-Nessuna attività da segnalare per oggi.
+Il file `TODO.md` è vuoto: non contiene alcuna attività da svolgere oggi.
